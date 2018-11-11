@@ -1,4 +1,8 @@
 # cerrors
+[![Build Status](https://travis-ci.org/stonelgh/cerrors.svg?branch=master)](https://travis-ci.org/stonelgh/cerrors)
+[![GoDoc](https://godoc.org/github.com/stonelgh/cerrors?status.svg)](http://godoc.org/github.com/stonelgh/cerrors)
+[![Report card](https://goreportcard.com/badge/github.com/stonelgh/cerrors)](https://goreportcard.com/report/github.com/stonelgh/cerrors)
+
 Package cerrors provides simple yet flexible error handling primitives.
 
 It allows you to categorize errors using error codes. It helps you to debug
